@@ -5,7 +5,7 @@ env:
   variables:
     IMAGE_REPO_NAME: admin03-reservation
     _PROJECT_NAME: admin03-reservation
-
+    
 phases:
   install:
     runtime-versions:

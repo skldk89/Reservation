@@ -19,7 +19,7 @@ public class ReservationRequested extends AbstractEvent {
         return ownerId;
     }
 
-    public void setOwnerId(Long ownerID) {
+    public void setOwnerId(Long ownerId) {
         this.ownerId = ownerId;
     }
     public String getCustomerName() {
@@ -40,7 +40,7 @@ public class ReservationRequested extends AbstractEvent {
         return reservationId;
     }
 
-    public void setReservationId(Long reservationID) {
+    public void setReservationId(Long reservationId) {
         this.reservationId = reservationId;
     }
 }

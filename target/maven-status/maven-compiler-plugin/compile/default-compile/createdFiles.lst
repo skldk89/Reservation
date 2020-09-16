@@ -1,0 +1,12 @@
+RestaurantReservation\Reservation.class
+RestaurantReservation\config\kafka\KafkaProcessor.class
+RestaurantReservation\ReservationCanceled.class
+RestaurantReservation\ReservationApplication.class
+RestaurantReservation\ReservationRequested.class
+RestaurantReservation\AbstractEvent.class
+RestaurantReservation\ReservationConfirmed.class
+RestaurantReservation\ReservationRepository.class
+RestaurantReservation\AbstractEvent$1.class
+RestaurantReservation\PolicyHandler.class
+RestaurantReservation\ReservationApporved.class
+RestaurantReservation\ReservationController.class
